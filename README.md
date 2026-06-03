@@ -39,7 +39,7 @@ I am building this machine as my ultimate hands-on classroom. Once I figure out 
 * **Issues / Roadblocks:** The original screen and internal parts are completely ancient and useless for a modern system, leaving me with a totally empty plastic shell to figure out.
 * **Current Status:** Moving to the peripheral translation phase.
 
-![Vintage CyberPower Chassis Teardown](images/chassis_teardown.jpg)
+[![Step 1](chassis-01.jpg)](chassis-01.jpg)
 
 ---
 
