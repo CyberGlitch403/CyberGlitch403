@@ -39,7 +39,16 @@ I am building this machine as my ultimate hands-on classroom. Once I figure out 
 * **Issues / Roadblocks:** The original screen and internal parts are completely ancient and useless for a modern system, leaving me with a totally empty plastic shell to figure out.
 * **Current Status:** Moving to the peripheral translation phase.
 
-[![Step 1](chassis-01.jpg)](chassis-01.jpg)
+[![Vintage CyberPower Chassis Teardown Step 1](chassis-01.jpg)](chassis-01.jpg)
+[![Vintage CyberPower Chassis Teardown Step 2](chassis-02.jpg)](chassis-02.jpg)
+[![Vintage CyberPower Chassis Teardown Step 3](chassis-03.jpg)](chassis-03.jpg)
+[![Vintage CyberPower Chassis Teardown Step 4](chassis-04.jpg)](chassis-04.jpg)
+[![Vintage CyberPower Chassis Teardown Step 5](chassis-05.jpg)](chassis-05.jpg)
+[![Vintage CyberPower Chassis Teardown Step 6](chassis-06.jpg)](chassis-06.jpg)
+[![Vintage CyberPower Chassis Teardown Step 7](chassis-07.jpg)](chassis-07.jpg)
+[![Vintage CyberPower Chassis Teardown Step 8](chassis-08.jpg)](chassis-08.jpg)
+[![Vintage CyberPower Chassis Teardown Step 9](chassis-09.jpg)](chassis-09.jpg)
+[![Vintage CyberPower Chassis Teardown Step 10](chassis-10.jpg)](chassis-10.jpg)
 
 ---
 
