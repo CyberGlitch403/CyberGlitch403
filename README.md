@@ -76,14 +76,14 @@ I am repurposing this vintage laptop chassis as my ultimate hands-on classroom. 
 > <summary><b>📐 CLICK HERE TO VIEW THE ARCHITECTURE & SOURCED PARTS</b></summary>
 > <br>
 >
-> *Counting the microscopic pins on the ribbon cables:*
-> [![Ribbon Cable Close Up](step2-ribbon.jpg)](step2-ribbon.jpg)
+> *Ribbon Cable Reference 1 - Pin counting close-up:*
+> ![Ribbon Cable Close Up 1](step2-ribbon1.jpg)
 > 
-> *Mapping out the pin expansion logic to bypass the Arduino bottleneck:*
-> [![Logic Sketch](step2-logic.jpg)](step2-logic.jpg)
+> *Ribbon Cable Reference 2 - Connector orientation:*
+> ![Ribbon Cable Close Up 2](step2-ribbon2.jpg)
 >
 > *The ingredients have arrived in the lab! Ready for the breadboard:*
-> [![Sourced Parts Layout](step2-parts.jpg)](step2-parts.jpg)
+> ![Sourced Parts Layout](step2-parts.jpg)
 >
 > </details>
 
