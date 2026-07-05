@@ -26,17 +26,18 @@ I am repurposing this vintage laptop chassis as my ultimate hands-on classroom. 
 <summary>🔍 Click here to view the Project Ledger & Progress Logs</summary>
 <br>
 
-#### 📈 Project Ledger (Current Total Cost: $111.81)
+#### 📈 Project Ledger (Current Total Cost: $128.05)
 
 | Component / Part | Source | Cost | Status |
 | :--- | :--- | :--- | :--- |
 | Vintage CyberPower Laptop Chassis | eBay | $54.44 | In Lab |
-| Arduino Micro with Headers [A000053] | Amazon | $23.00 | Ordered |
-| Horinktor MCP23017 DIP-28 Chip | Amazon | $8.49 | Ordered |
-| 24-Pin 1.0mm to DIP 2.54mm Board | Amazon | $8.50 | Ordered |
-| MECCANIXITY 10-Pin 0.5mm to DIP 2.54mm Board | Amazon | $8.39 | Ordered |
-| MB-102 830-Point Breadboard Kit + Wires | Amazon | $8.99 | Ordered |
+| Arduino Micro with Headers [A000053] | Amazon | $23.00 | In Lab |
+| Horinktor MCP23017 DIP-28 Chip | Amazon | $8.49 | In Lab |
+| 24-Pin 1.0mm to DIP 2.54mm Board | Amazon | $8.50 | In Lab |
+| MECCANIXITY 10-Pin 0.5mm to DIP 2.54mm Board | Amazon | $8.39 | In Lab |
+| MB-102 830-Point Breadboard Kit + Wires | Amazon | $8.99 | In Lab |
 | Arduino-Style Mega Starter Kit w/ Board | Gifted | Free | In Lab |
+| Hyper Tough 77 Precision Electronics Tool Set | Walmart | $16.24 | In Lab |
 
 ---
 
