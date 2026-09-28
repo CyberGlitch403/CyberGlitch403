@@ -1,6 +1,6 @@
 # 💻 CyberGlitch403 // Welcome to my trials and errors!
 
-I am currently studying cybersecurity with my sights set on Digital Forensics and Incident Response (DFIR). This space is my hands-on playground where I document how I break, fix and analyze hardware or networks.
+I am currently studying cybersecurity. This space is my hands-on playground where I document how I break, fix and analyze hardware or networks.
 
 ---
 
