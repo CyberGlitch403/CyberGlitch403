@@ -70,7 +70,7 @@ I am repurposing this vintage laptop chassis as my ultimate hands-on classroom. 
 * **Current Status:** Added a MCP23017 expander chip to my order to give the Arduino extra pins. Everything is officially ordered; waiting for delivery so I can start learning how to wire it up!
 
 <details>
-<summary><b>📐 View My Setup Plans & Parts Gallery</b></summary>
+<summary><b>📐 View My Parts Gallery</b></summary>
 <br>
 
 *Ribbon Cable Reference 1*  
