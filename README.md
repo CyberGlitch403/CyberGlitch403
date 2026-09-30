@@ -80,7 +80,12 @@ I am repurposing this vintage laptop chassis as my ultimate hands-on classroom. 
 ![Ribbon Cable Close Up 2](step2-ribbon2.jpg)
 
 *The ingredients have arrived in the lab! Ready for the breadboard:*  
-![Sourced Parts Layout 1](step2-parts.jpg)
+![Sourced Parts Layout 1](CyberGuts.jpg)
+![Sourced Parts Layout 1](CyberGuts2.jpg)
+![Sourced Parts Layout 1](ArduinoMicro.jpg)
+![Sourced Parts Layout 1](Boards.jpg)
+![Sourced Parts Layout 1](Connectors.jpg)
+![Sourced Parts Layout 1](Expander.jpg)
 </details>
 
 ---
